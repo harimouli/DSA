@@ -17,24 +17,24 @@ public:
         ListNode* temp = head;
         while(cur1 && cur2){
             if(cur1->val < cur2->val){
-                    temp ->next = new ListNode(cur1->val);
+                    temp -> next = cur1;
                     temp = temp->next;
                     cur1 = cur1->next;
             }
             else{
-                temp->next = new ListNode(cur2 ->val);
-                temp = temp->next;
+                temp->next = cur2;
                 cur2 = cur2->next;
+                temp = temp->next;
             }
         }
         while(cur1){
-             temp ->next = new ListNode(cur1->val);
-             temp = temp->next;
-            cur1 = cur1->next;
+               temp -> next = cur1;
+                temp = temp->next;
+                cur1 = cur1->next;
         }
         while(cur2){
-            temp->next = new ListNode(cur2 ->val);
-            temp = temp ->next;
+            temp->next = cur2;
+            temp = temp->next;
             cur2 = cur2->next;
         }
         return head->next;
