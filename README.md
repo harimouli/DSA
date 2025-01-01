@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harimouli/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harimouli/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
