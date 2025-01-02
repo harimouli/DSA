@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/harimouli/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -41,10 +43,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,6 +68,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +90,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +113,12 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
