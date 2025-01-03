@@ -23,6 +23,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
