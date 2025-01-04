@@ -4,24 +4,24 @@ public:
         if(nums.size() == 0){
             return 0;
         }
-       sort(nums.begin(), nums.end());
-        int longSubseq = 1;
-        int count = 1;
-        for(int i = 0; i<nums.size()-1; i++){
-            if(nums[i] + 1 == nums[i+1] || nums[i] == nums[i+1]){
-                if(nums[i] + 1 == nums[i+1]){
-                    count += 1;
-                }
-                else{
-                    count += 0;
-                }
+       priority_queue<int> q;
+       for(auto num : nums){
+            q.push(num);
+       }
+       int count = 1;
+       int maxLen = 1;
+       while(!q.empty()){
+            int cur = q.top();
+            q.pop();
+            if(cur-1 == q.top() || cur == q.top()){
+                if(cur == q.top()) count;
+                else count += 1;
             }
             else{
                 count = 1;
             }
-            longSubseq = max(count, longSubseq);
-            
-        }
-        return longSubseq;
+            maxLen = max(count, maxLen);
+       }
+       return maxLen;
     }
 };
