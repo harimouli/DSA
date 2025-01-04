@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harimouli/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harimouli/DSA/tree/master/0009-palindrome-number) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Array
 |  |
 | ------- |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Simulation
+|  |
+| ------- |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
