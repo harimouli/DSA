@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harimouli/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harimouli/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -114,6 +116,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 ## Bucket Sort
 |  |
