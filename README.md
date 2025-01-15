@@ -28,6 +28,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/harimouli/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bucket Sort
 |  |
 | ------- |
