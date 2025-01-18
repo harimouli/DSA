@@ -31,6 +31,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -139,6 +142,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/harimouli/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Bucket Sort
@@ -166,4 +170,12 @@
 | [0059-spiral-matrix-ii](https://github.com/harimouli/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/harimouli/DSA/tree/master/0289-game-of-life) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
