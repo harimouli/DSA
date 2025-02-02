@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harimouli/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harimouli/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harimouli/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harimouli/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
