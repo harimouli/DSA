@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/harimouli/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harimouli/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/harimouli/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Array
 |  |
