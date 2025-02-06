@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harimouli/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harimouli/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/harimouli/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
