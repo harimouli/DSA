@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         
        sort(nums.begin(), nums.end());
-        set<vector<int>> s;
+        vector<vector<int>>result;
        for(int i = 0; i<n; i++){
             if(i > 0 && nums[i] == nums[i-1]) continue;
             for(int j = i + 1; j<n; j++){
@@ -12,15 +12,18 @@ public:
                 int k = j + 1;
                 int x = n -1;
                 while(k < x){
-
+                   
                     long long sum =(long long) nums[i] + nums[j] + nums[k] + nums[x];
                     if(sum == target){
                         vector<int> temp;
                         temp = {nums[i], nums[j], nums[k], nums[x]};
                         sort(temp.begin(), temp.end());
-                        s.insert({temp});
+                        result.push_back(temp);
+                        while(k < x && nums[k] == nums[k+1]) k++;
+                        while(k <x && nums[x] == nums[x-1]) x--;
                         k++;
                         x--;
+
                     }
                     else if(sum > target){
                         x--;
@@ -31,10 +34,8 @@ public:
                 }
             }
        }
-       vector<vector<int>>result;
-       for(auto q : s){
-        result.push_back(q);
-       }
+    
+      
        return result;
         
     }
