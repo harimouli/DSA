@@ -6,10 +6,13 @@ public:
        sort(nums.begin(), nums.end());
         set<vector<int>> s;
        for(int i = 0; i<n; i++){
+            if(i > 0 && nums[i] == nums[i-1]) continue;
             for(int j = i + 1; j<n; j++){
+                if(j != i + 1 && nums[j] == nums[j-1]) continue;
                 int k = j + 1;
                 int x = n -1;
                 while(k < x){
+
                     long long sum =(long long) nums[i] + nums[j] + nums[k] + nums[x];
                     if(sum == target){
                         vector<int> temp;
