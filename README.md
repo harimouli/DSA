@@ -26,6 +26,7 @@
 | [0059-spiral-matrix-ii](https://github.com/harimouli/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harimouli/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harimouli/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harimouli/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harimouli/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +117,7 @@
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harimouli/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@
 | [0018-4sum](https://github.com/harimouli/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/harimouli/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harimouli/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harimouli/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
