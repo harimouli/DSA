@@ -148,6 +148,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
@@ -158,6 +159,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
@@ -262,6 +264,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/harimouli/DSA/tree/master/1558-course-schedule-iv) |
@@ -274,6 +277,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/harimouli/DSA/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/harimouli/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
