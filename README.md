@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harimouli/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -200,6 +201,7 @@
 | [0152-maximum-product-subarray](https://github.com/harimouli/DSA/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harimouli/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -229,6 +231,7 @@
 | [0289-game-of-life](https://github.com/harimouli/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
