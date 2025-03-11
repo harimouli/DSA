@@ -23,6 +23,7 @@
 | [0016-3sum-closest](https://github.com/harimouli/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harimouli/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
@@ -133,6 +134,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
