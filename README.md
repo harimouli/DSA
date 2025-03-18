@@ -71,6 +71,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harimouli/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harimouli/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/harimouli/DSA/tree/master/3429-special-array-i) |
@@ -346,4 +347,5 @@
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/harimouli/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
