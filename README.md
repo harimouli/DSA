@@ -40,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harimouli/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harimouli/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/harimouli/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/harimouli/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0078-subsets](https://github.com/harimouli/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/harimouli/DSA/tree/master/0137-single-number-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/harimouli/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
