@@ -1,16 +1,24 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-       unordered_map<int,int>mp;
-       vector<int> ans;
-       for(int i = 0; i<nums.size(); i++){
-            mp[nums[i]] += 1; 
-       }
-       for(auto &pair : mp){
-            if(pair.second == 1){
-                ans.push_back(pair.first);
+        long long xorA = nums[0];
+        for(int i = 1; i<nums.size(); i++){
+            xorA ^= nums[i];
+        }
+        int rightMost = xorA ^ (xorA-1) & xorA;
+
+        int b1 = 0;
+        int b2 = 0;
+
+        for(int i = 0; i<nums.size(); i++){
+            if(nums[i] & rightMost){
+                b1 ^= nums[i];
             }
-       }
-       return ans;
+            else{
+                b2 ^= nums[i];
+            }
+        }
+        return {b1, b2};
+
     }
 };
