@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/harimouli/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/harimouli/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/harimouli/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harimouli/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -282,6 +283,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -303,6 +305,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harimouli/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/harimouli/DSA/tree/master/0289-game-of-life) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harimouli/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/harimouli/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/harimouli/DSA/tree/master/0137-single-number-ii) |
