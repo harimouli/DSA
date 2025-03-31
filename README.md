@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/harimouli/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harimouli/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/harimouli/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/harimouli/DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -283,6 +284,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -303,6 +305,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harimouli/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
