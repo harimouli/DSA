@@ -131,6 +131,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harimouli/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -190,6 +191,7 @@
 | [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -203,6 +205,7 @@
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/harimouli/DSA/tree/master/1558-course-schedule-iv) |
@@ -334,6 +338,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harimouli/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
