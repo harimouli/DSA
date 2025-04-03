@@ -82,6 +82,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harimouli/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harimouli/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harimouli/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
