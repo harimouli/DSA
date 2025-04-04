@@ -48,12 +48,12 @@ public:
         while (!q.empty()) {
             int len = q.size();
             level++;
-            // vector<TreeNode*>temp;
+           
             for (int i = 0; i < len; i++) {
                 auto cur = q.front();
                 int row = cur.second;
                 auto node = cur.first;
-                // temp.push_back(node);
+                
                 mp[row].push_back(node);
                 level = row;
                 q.pop();
