@@ -194,11 +194,13 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -213,6 +215,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -229,6 +232,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Counting
