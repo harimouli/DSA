@@ -369,6 +369,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/harimouli/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -381,6 +382,7 @@
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/harimouli/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
