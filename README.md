@@ -98,6 +98,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harimouli/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harimouli/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3194-find-words-containing-character](https://github.com/harimouli/DSA/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harimouli/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -331,6 +332,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3194-find-words-containing-character](https://github.com/harimouli/DSA/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
