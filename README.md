@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
@@ -323,6 +324,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harimouli/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
@@ -417,6 +419,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harimouli/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
