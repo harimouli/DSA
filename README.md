@@ -69,6 +69,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/harimouli/DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
+| [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -121,6 +122,7 @@
 | [0454-4sum-ii](https://github.com/harimouli/DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/harimouli/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harimouli/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -421,6 +423,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harimouli/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
