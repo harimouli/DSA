@@ -90,6 +90,7 @@
 | [2058-concatenation-of-array](https://github.com/harimouli/DSA/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harimouli/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -422,6 +423,7 @@
 | [0735-asteroid-collision](https://github.com/harimouli/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -441,6 +443,7 @@
 | [0496-next-greater-element-i](https://github.com/harimouli/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harimouli/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Number Theory
 |  |
 | ------- |
