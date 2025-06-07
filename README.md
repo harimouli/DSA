@@ -414,6 +414,7 @@
 | [0155-min-stack](https://github.com/harimouli/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -434,6 +435,7 @@
 | [0496-next-greater-element-i](https://github.com/harimouli/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harimouli/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harimouli/DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -459,6 +461,7 @@
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harimouli/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harimouli/DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Number Theory
@@ -511,4 +514,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harimouli/DSA/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
