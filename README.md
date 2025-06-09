@@ -525,4 +525,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/harimouli/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
