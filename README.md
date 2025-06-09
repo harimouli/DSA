@@ -122,6 +122,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/harimouli/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harimouli/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/harimouli/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -518,4 +521,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
