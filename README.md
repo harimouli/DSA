@@ -17,6 +17,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harimouli/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/harimouli/DSA/tree/master/2383-add-two-integers) |
@@ -310,6 +311,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harimouli/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/harimouli/DSA/tree/master/3194-find-words-containing-character) |
