@@ -23,6 +23,7 @@
 | [2383-add-two-integers](https://github.com/harimouli/DSA/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harimouli/DSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Array
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Union Find
 |  |
 | ------- |
