@@ -130,6 +130,7 @@
 | [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/harimouli/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/harimouli/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/harimouli/DSA/tree/master/0454-4sum-ii) |
@@ -223,6 +224,7 @@
 | [0088-merge-sorted-array](https://github.com/harimouli/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harimouli/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harimouli/DSA/tree/master/0368-largest-divisible-subset) |
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
@@ -361,6 +363,7 @@
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/harimouli/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/harimouli/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
