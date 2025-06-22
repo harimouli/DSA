@@ -363,6 +363,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/harimouli/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harimouli/DSA/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/harimouli/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/harimouli/DSA/tree/master/0151-reverse-words-in-a-string) |
