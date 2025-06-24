@@ -76,6 +76,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/harimouli/DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/harimouli/DSA/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -326,6 +327,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/harimouli/DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/harimouli/DSA/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harimouli/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
