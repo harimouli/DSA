@@ -24,6 +24,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harimouli/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harimouli/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harimouli/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/harimouli/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
@@ -530,6 +533,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harimouli/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
