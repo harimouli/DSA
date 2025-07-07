@@ -88,6 +88,7 @@
 | [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harimouli/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harimouli/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harimouli/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -184,6 +185,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/harimouli/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -243,6 +245,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/harimouli/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/harimouli/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -337,6 +340,7 @@
 | [0435-non-overlapping-intervals](https://github.com/harimouli/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harimouli/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/harimouli/DSA/tree/master/0890-lemonade-change) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harimouli/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
