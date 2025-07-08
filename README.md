@@ -390,6 +390,7 @@
 | [0038-count-and-say](https://github.com/harimouli/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/harimouli/DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/harimouli/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harimouli/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
@@ -482,6 +483,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harimouli/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/harimouli/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harimouli/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harimouli/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harimouli/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
