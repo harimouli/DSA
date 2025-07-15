@@ -53,6 +53,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harimouli/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harimouli/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/harimouli/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/harimouli/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harimouli/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/harimouli/DSA/tree/master/0152-maximum-product-subarray) |
@@ -338,6 +339,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/harimouli/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harimouli/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/harimouli/DSA/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/harimouli/DSA/tree/master/0435-non-overlapping-intervals) |
