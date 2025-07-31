@@ -189,6 +189,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/harimouli/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -299,6 +301,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Counting
 |  |
@@ -481,6 +484,7 @@
 | [0155-min-stack](https://github.com/harimouli/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harimouli/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -589,6 +593,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -599,4 +604,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harimouli/DSA/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/harimouli/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
