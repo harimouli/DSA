@@ -132,6 +132,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harimouli/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harimouli/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harimouli/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harimouli/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2690-house-robber-iv](https://github.com/harimouli/DSA/tree/master/2690-house-robber-iv) |
+| [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
+| [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
@@ -615,4 +618,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
