@@ -15,6 +15,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/harimouli/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/harimouli/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harimouli/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/harimouli/DSA/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/harimouli/DSA/tree/master/0368-largest-divisible-subset) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harimouli/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harimouli/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/harimouli/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/harimouli/DSA/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
