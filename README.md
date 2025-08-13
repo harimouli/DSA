@@ -89,6 +89,7 @@
 | [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1039-find-the-town-judge](https://github.com/harimouli/DSA/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harimouli/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -155,6 +156,7 @@
 | [0496-next-greater-element-i](https://github.com/harimouli/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harimouli/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/harimouli/DSA/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harimouli/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -477,6 +479,7 @@
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/harimouli/DSA/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/harimouli/DSA/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harimouli/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
