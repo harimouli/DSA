@@ -25,6 +25,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/harimouli/DSA/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harimouli/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harimouli/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -119,6 +120,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harimouli/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harimouli/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harimouli/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
