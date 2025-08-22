@@ -74,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harimouli/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harimouli/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/harimouli/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/harimouli/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/harimouli/DSA/tree/master/0455-assign-cookies) |
@@ -156,6 +157,7 @@
 | [0229-majority-element-ii](https://github.com/harimouli/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harimouli/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/harimouli/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harimouli/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/harimouli/DSA/tree/master/0454-4sum-ii) |
@@ -597,6 +599,7 @@
 | [0260-single-number-iii](https://github.com/harimouli/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/harimouli/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harimouli/DSA/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harimouli/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harimouli/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -649,6 +652,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harimouli/DSA/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harimouli/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/harimouli/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Binary Search Tree
 |  |
