@@ -202,6 +202,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harimouli/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/harimouli/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harimouli/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harimouli/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -597,6 +598,7 @@
 | [0078-subsets](https://github.com/harimouli/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/harimouli/DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/harimouli/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/harimouli/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/harimouli/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/harimouli/DSA/tree/master/0338-counting-bits) |
