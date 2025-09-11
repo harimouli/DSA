@@ -284,6 +284,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harimouli/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/harimouli/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/harimouli/DSA/tree/master/3430-count-days-without-meetings) |
 ## Tree
@@ -458,6 +459,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harimouli/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/harimouli/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/harimouli/DSA/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
