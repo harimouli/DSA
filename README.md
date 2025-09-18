@@ -182,6 +182,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harimouli/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harimouli/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
@@ -222,6 +223,7 @@
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harimouli/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harimouli/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -532,10 +534,12 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
