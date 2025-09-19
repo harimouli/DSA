@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/harimouli/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/harimouli/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harimouli/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/harimouli/DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harimouli/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/harimouli/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harimouli/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harimouli/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harimouli/DSA/tree/master/0342-power-of-four) |
