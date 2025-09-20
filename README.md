@@ -148,6 +148,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harimouli/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harimouli/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harimouli/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2690-house-robber-iv](https://github.com/harimouli/DSA/tree/master/2690-house-robber-iv) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -539,12 +542,14 @@
 | [0937-online-stock-span](https://github.com/harimouli/DSA/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +638,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/harimouli/DSA/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
