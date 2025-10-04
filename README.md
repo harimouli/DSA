@@ -47,6 +47,7 @@
 | [0018-4sum](https://github.com/harimouli/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/harimouli/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
@@ -661,6 +662,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/harimouli/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/harimouli/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
