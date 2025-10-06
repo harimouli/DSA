@@ -99,6 +99,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/harimouli/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/harimouli/DSA/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/harimouli/DSA/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harimouli/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -234,6 +235,7 @@
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harimouli/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/harimouli/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
@@ -275,6 +277,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/harimouli/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/harimouli/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/harimouli/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harimouli/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harimouli/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -325,6 +328,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/harimouli/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -345,6 +349,7 @@
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harimouli/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/harimouli/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/harimouli/DSA/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -424,6 +429,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/harimouli/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -443,6 +449,7 @@
 | [0463-island-perimeter](https://github.com/harimouli/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harimouli/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
