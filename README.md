@@ -162,6 +162,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harimouli/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -523,6 +524,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harimouli/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -544,6 +546,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/harimouli/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
 |  |
 | ------- |
