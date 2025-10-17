@@ -426,6 +426,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/harimouli/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harimouli/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -521,6 +522,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/harimouli/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/harimouli/DSA/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harimouli/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -685,6 +687,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/harimouli/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harimouli/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/harimouli/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -744,4 +747,8 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
