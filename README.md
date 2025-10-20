@@ -133,6 +133,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harimouli/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/harimouli/DSA/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harimouli/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -523,6 +524,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harimouli/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harimouli/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harimouli/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -559,6 +561,7 @@
 | [1642-water-bottles](https://github.com/harimouli/DSA/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harimouli/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harimouli/DSA/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harimouli/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harimouli/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harimouli/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
