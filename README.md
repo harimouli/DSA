@@ -167,6 +167,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harimouli/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harimouli/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harimouli/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harimouli/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
@@ -303,6 +304,7 @@
 | [2690-house-robber-iv](https://github.com/harimouli/DSA/tree/master/2690-house-robber-iv) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Sorting
@@ -335,6 +337,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harimouli/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -552,6 +555,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harimouli/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
 |  |
@@ -663,6 +667,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
