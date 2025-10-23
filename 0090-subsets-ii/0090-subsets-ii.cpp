@@ -1,23 +1,43 @@
 class Solution {
 public:
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        set<vector<int>> s;
-        int n = nums.size();
-        vector<vector<int>> ans;
 
-        for(int num = 0; num<(1 << n); num++){
-            vector<int> temp;
-            for(int i = 0; i<nums.size(); i++){
-                if(num & (1 << i)){
-                    temp.push_back(nums[i]);
-                }
+    void getSubs(int index, vector<vector<int>> &res, vector<int> &nums, vector<int> &temp){
+        int n = nums.size();
+
+        if(index == n){
+            res.push_back(temp);
+            return;
+        }
+
+
+        temp.push_back(nums[index]);
+
+        getSubs(index + 1, res, nums, temp);
+
+        temp.pop_back();
+
+        for(int i = index + 1; i<n; i++){
+            if(nums[index] != nums[i]) {
+                getSubs(i, res, nums, temp);
+                return;
             }
-            sort(temp.begin(),temp.end());
-            s.insert(temp);
         }
-        for(auto sub : s){
-            ans.push_back(sub);
-        }
-        return ans;
+
+       getSubs(n, res, nums, temp);
+
+
+    }
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        
+        sort(nums.begin(), nums.end());
+
+        vector<vector<int>> res;
+        vector<int> temp;
+
+        getSubs(0, res, nums, temp);
+        return res;
+
+
+
     }
 };
