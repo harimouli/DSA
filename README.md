@@ -37,6 +37,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3336-water-bottles-ii](https://github.com/harimouli/DSA/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harimouli/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/harimouli/DSA/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -541,6 +542,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/harimouli/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harimouli/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harimouli/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harimouli/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/harimouli/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harimouli/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
 |  |
@@ -685,6 +688,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/harimouli/DSA/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harimouli/DSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harimouli/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -731,6 +735,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harimouli/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harimouli/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
