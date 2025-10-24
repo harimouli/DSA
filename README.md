@@ -27,6 +27,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/harimouli/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harimouli/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/harimouli/DSA/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harimouli/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/harimouli/DSA/tree/master/2383-add-two-integers) |
@@ -202,6 +203,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/harimouli/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/harimouli/DSA/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/harimouli/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -407,6 +409,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/harimouli/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harimouli/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harimouli/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harimouli/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/harimouli/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -730,6 +733,7 @@
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -744,6 +748,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/harimouli/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harimouli/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Queue
 |  |
