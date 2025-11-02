@@ -291,6 +291,7 @@
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harimouli/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harimouli/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/harimouli/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harimouli/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harimouli/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harimouli/DSA/tree/master/0455-assign-cookies) |
@@ -538,6 +539,7 @@
 | [0043-multiply-strings](https://github.com/harimouli/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harimouli/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/harimouli/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/harimouli/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harimouli/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harimouli/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
