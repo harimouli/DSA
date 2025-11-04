@@ -38,6 +38,7 @@ public:
 
         vector<int> ans;
         for(int right = 0; right<n; right++){
+            
             if(right - left + 1 == k){
                 int sum = getXSum(left, right, x,nums);
                 ans.push_back(sum);
