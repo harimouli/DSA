@@ -189,6 +189,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harimouli/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harimouli/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harimouli/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -391,6 +394,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/harimouli/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/harimouli/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -414,6 +418,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/harimouli/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/harimouli/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -502,6 +507,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/harimouli/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/harimouli/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harimouli/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -635,6 +641,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harimouli/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/harimouli/DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/harimouli/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -668,6 +675,7 @@
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
