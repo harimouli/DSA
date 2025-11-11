@@ -190,6 +190,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/harimouli/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harimouli/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harimouli/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -238,6 +239,7 @@
 | [3678-design-task-manager](https://github.com/harimouli/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harimouli/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harimouli/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harimouli/DSA/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
@@ -498,6 +500,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harimouli/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harimouli/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harimouli/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -702,6 +705,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harimouli/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/harimouli/DSA/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harimouli/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -736,6 +740,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harimouli/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/harimouli/DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harimouli/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
