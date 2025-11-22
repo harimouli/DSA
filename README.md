@@ -112,6 +112,7 @@
 | [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/harimouli/DSA/tree/master/0890-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harimouli/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/harimouli/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -467,6 +468,7 @@
 | [0376-wiggle-subsequence](https://github.com/harimouli/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/harimouli/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/harimouli/DSA/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/harimouli/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/harimouli/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -533,6 +535,7 @@
 | [0733-flood-fill](https://github.com/harimouli/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/harimouli/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/harimouli/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
