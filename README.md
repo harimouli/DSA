@@ -852,4 +852,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harimouli/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
