@@ -383,6 +383,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -392,6 +393,7 @@
 | [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/harimouli/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harimouli/DSA/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harimouli/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/harimouli/DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harimouli/DSA/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harimouli/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harimouli/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harimouli/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -577,6 +580,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/harimouli/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harimouli/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harimouli/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/harimouli/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/harimouli/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harimouli/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -811,6 +815,7 @@
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/harimouli/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/harimouli/DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
