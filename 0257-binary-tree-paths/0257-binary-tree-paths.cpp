@@ -12,34 +12,19 @@
 class Solution {
 public:
 
-    void getPath(TreeNode* root, vector<int>&temp, vector<string>&res){
+    void getPath(TreeNode* root, string t, vector<string>&res){
 
         if(root->left == nullptr && root->right == nullptr) {
-            temp.push_back(root->val);
-            string t = "";
-            for(int i = 0; i<temp.size(); i++){
-                if(i != temp.size()-1){
-                    t = t + to_string(temp[i]) + "->";
-                }else{
-                    t = t + to_string(temp[i]);
-                }
-            }
-            temp.pop_back();
-            res.push_back(t);
-            return;
+         res.push_back(t);
+         return;
         }
-        temp.push_back(root->val);
-        if(root->left) getPath(root->left, temp, res);
+        if(root->left) getPath(root->left, t + "->" + to_string(root->left->val), res);
         
-        if(root->right) getPath(root->right, temp, res);
-        temp.pop_back();
-
-       
+        if(root->right) getPath(root->right, t + "->" + to_string(root->right->val), res);
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string>res;
-        vector<int> temp;
-        getPath(root, temp, res);
+        getPath(root, to_string(root->val), res);
         return res;
 
     }
