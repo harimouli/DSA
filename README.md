@@ -41,6 +41,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harimouli/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harimouli/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3336-water-bottles-ii](https://github.com/harimouli/DSA/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harimouli/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harimouli/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harimouli/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harimouli/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -177,6 +178,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harimouli/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/harimouli/DSA/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/harimouli/DSA/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harimouli/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/harimouli/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -616,6 +618,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harimouli/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harimouli/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harimouli/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/harimouli/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harimouli/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
