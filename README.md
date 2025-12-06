@@ -183,6 +183,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harimouli/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harimouli/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harimouli/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harimouli/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -491,6 +492,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harimouli/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harimouli/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harimouli/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -624,6 +626,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harimouli/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harimouli/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harimouli/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harimouli/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -748,6 +751,7 @@
 | [1813-maximum-erasure-value](https://github.com/harimouli/DSA/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harimouli/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harimouli/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harimouli/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harimouli/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -805,6 +809,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harimouli/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/harimouli/DSA/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harimouli/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/harimouli/DSA/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
@@ -839,6 +844,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harimouli/DSA/tree/master/0239-sliding-window-maximum) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harimouli/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
 |  |
 | ------- |
