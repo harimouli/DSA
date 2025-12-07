@@ -21,6 +21,7 @@
 | [0368-largest-divisible-subset](https://github.com/harimouli/DSA/tree/master/0368-largest-divisible-subset) |
 | [1018-largest-perimeter-triangle](https://github.com/harimouli/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harimouli/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/harimouli/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/harimouli/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harimouli/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/harimouli/DSA/tree/master/1642-water-bottles) |
