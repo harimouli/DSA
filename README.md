@@ -125,6 +125,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/harimouli/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/harimouli/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harimouli/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1219-path-with-maximum-gold](https://github.com/harimouli/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/harimouli/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harimouli/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/harimouli/DSA/tree/master/1364-tuple-with-same-product) |
@@ -552,6 +553,7 @@
 | [0854-making-a-large-island](https://github.com/harimouli/DSA/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/harimouli/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1219-path-with-maximum-gold](https://github.com/harimouli/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/harimouli/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/harimouli/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/harimouli/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -826,6 +828,7 @@
 | [0131-palindrome-partitioning](https://github.com/harimouli/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/harimouli/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/harimouli/DSA/tree/master/0257-binary-tree-paths) |
+| [1219-path-with-maximum-gold](https://github.com/harimouli/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harimouli/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/harimouli/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harimouli/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
