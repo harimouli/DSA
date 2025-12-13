@@ -59,6 +59,7 @@
 | [0018-4sum](https://github.com/harimouli/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/harimouli/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harimouli/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/harimouli/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harimouli/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/harimouli/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
@@ -210,6 +211,7 @@
 | [0001-two-sum](https://github.com/harimouli/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harimouli/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harimouli/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harimouli/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/harimouli/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harimouli/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/harimouli/DSA/tree/master/0146-lru-cache) |
@@ -538,6 +540,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harimouli/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/harimouli/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harimouli/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harimouli/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -822,6 +825,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harimouli/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harimouli/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harimouli/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/harimouli/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harimouli/DSA/tree/master/0090-subsets-ii) |
