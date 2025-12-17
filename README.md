@@ -1,6 +1,17 @@
 # DSA
 
-<!---LeetCode Topics Start-->
+# This repository contains my LeetCode solutions,auto-synced using LeetHub.
+
+# I organize and track problems by problem-solving patterns (Two Pointers, Sliding Window, DP, etc.)to strengthen interview-level thinking rather than random practice.
+
+
+
+## Each table below represents a core DSA pattern.
+## Problems are grouped based on the primary approach used and reflect how I identify patterns during interviews.
+## Practice Strategy
+- Focus on mastering patterns before random problems
+- Revisit mistakes and edge cases
+- Prioritize clean logic over brute force
 # LeetCode Topics
 ## Math
 |  |
