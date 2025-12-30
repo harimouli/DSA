@@ -1,76 +1,46 @@
 class Solution {
 public:
 
+    int getMaxArea(vector<int> prefixSum){
+            int n = prefixSum.size();
+            int left = 0;
+            int right = n-1;
 
-    int maxRectArea(vector<int>& arr){
+            int maxArea = 0;
 
+           
 
-        int maxArea = 0;
-        int n = arr.size();
+           for(int i = 0; i<n ; i++){
+                int mini = prefixSum[i];
 
-        stack<int> stk;
-
-        for(int i = 0; i<n; i++){
-
-
-            while(!stk.empty() && arr[stk.top()] >= arr[i]){
-                
-                int index = stk.top();
-                stk.pop();
-                int pse = stk.empty() ? -1: stk.top();
-
-                maxArea = max(maxArea, arr[index] * (i - pse - 1));
-            }
-            stk.push(i);
-        }
-
-        while(!stk.empty()) {
-            int index = stk.top();
-            stk.pop();
-            int pse = stk.empty() ? -1 : stk.top();
-
-            maxArea = max(maxArea, (arr[index] * (n - pse -1)));
-        }
-        return maxArea;
-
-
-    }
-    vector<vector<int>> colPrefixSum(vector<vector<char>>& matrix){
-            
-
-            int m = matrix.size();
-            int n = matrix[0].size();
-            vector<vector<int>> prefixSum(m, vector<int>(n));
-            for(int j = 0; j<n; j++){
-                int sum  = 0;
-
-                for(int i = 0; i<m; i++){
-
-                    sum =  sum + (matrix[i][j] - '0');
-
-                    if(matrix[i][j] == '0'){
-                        prefixSum[i][j] = 0;
-                        sum = 0;
-                    }
-                    prefixSum[i][j] = sum;
+                for(int j = i; j<n; j++){
+                    if(prefixSum[j] == 0) break;
+                    mini = min(mini , prefixSum[j]);
+                    int area = (j - i + 1 ) * mini;
+                    maxArea = max(maxArea, area);
                 }
-            }
+           }
 
-        return prefixSum;
+
+      return maxArea;
+
+
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         
-        vector<vector<int>> prefixSum = colPrefixSum(matrix);
+            int m = matrix.size();
+            int n = matrix[0].size();
 
-        int maxArea = 0;
-        int m = matrix.size();
-        for(int i = 0; i<m; i++){
+            vector<int> prefixSum(n, 0);
 
-            maxArea = max(maxArea, maxRectArea(prefixSum[i]));
-        }
-
-        return maxArea;
-
-
+            int ans = 0;
+            for(int i = 0; i<m; i++){
+                for(int j = 0; j<n; j++){  // if '0' 
+                    if(matrix[i][j] == '1') prefixSum[j]++;
+                    else prefixSum[j] = 0;
+                }
+                ans = max(ans, getMaxArea(prefixSum));
+            }
+            return ans;        
     }
 };
