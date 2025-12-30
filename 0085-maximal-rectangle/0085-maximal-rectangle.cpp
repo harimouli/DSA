@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int getMaxArea(vector<int> prefixSum){
             int n = prefixSum.size();
             int left = 0;
