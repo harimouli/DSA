@@ -6,6 +6,23 @@ public:
         return 1LL * x * x + 1LL * y * y;
 
     }
+
+
+    void  move(int &x, int &y, int cmd, int&direction,  map<pair<int, int>, int>& mpp, long long& ans){
+        vector<vector<int>> directions = {{0, 1},{1, 0}, {-1, 0}, {0, -1}};
+
+            
+            while(cmd > 0){
+                if(mpp[{x + directions[direction][0], y + directions[direction][1]}]) break;
+
+                x += directions[direction][0];
+                y += directions[direction][1];
+                cmd--;
+                ans = max(ans, getEcValue(x, y));
+            }
+         
+
+    }
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
         
 
@@ -18,84 +35,64 @@ public:
                 mpp[{ob[0], ob[1]}]++;
             }
 
-            char direction = 'N';
+            int direction = 0;
             int x = 0;
             int y = 0;
         long long ans = 0;
             for(int i = 0; i<n; i++){
                 int cmd = commands[i];
 
-                if(direction == 'N'){
+                if(direction ==  0){
 
                     if(cmd >= 1){
-                        
-                        while(cmd > 0){
-                            if(mpp[{x, y + 1}]) break;
-                            y++;
-                            cmd--;
-                             ans = max(ans, getEcValue(x, y));
-                        }
+                        move(x, y, cmd, direction, mpp, ans);
+                       
                     }else if(cmd == -1){
-                            direction = 'E';
+                            direction = 1;
                     }else{
-                        direction = 'W';
+                        direction = 2;
                     }
                 }
 
                 // direction east 
-                else if(direction == 'E'){
+                else if(direction == 1){
 
                     if(cmd >= 1){
 
-                        while(cmd > 0){
-                            if(mpp[{x + 1, y}]) break;
-                            x++;
-                            cmd--;
-                            ans = max(ans, getEcValue(x, y));
-                        }
+                        move(x, y, cmd, direction, mpp, ans);
                       
                     }else if(cmd == -1){
-                        direction = 'S';
+                        direction = 3;
                     }else{
-                        direction = 'N';
+                        direction = 0;
                     }
                 }
 
                 // direction west 
 
-                else if(direction == 'S'){
+                else if(direction == 3){
 
 
                     if(cmd >= 1){
 
-                        while(cmd > 0){
-                            if(mpp[{x, y - 1}]) break;
-                            y--;
-                            cmd--;
-                            ans = max(ans, getEcValue(x, y));
-                        }
+                        move(x, y, cmd, direction, mpp, ans);
                     }
                     else if(cmd == -1){
-                        direction = 'W';
+                        direction = 2;
                     }else {
-                        direction = 'E';
+                        direction = 1;
                     }
                 }
                 
-                else if(direction == 'W'){
+                else if(direction == 2){
 
 
                     if(cmd >= 1){
-                        while(cmd > 0){
-                            if(mpp[{x- 1, y}]) break;
-                            cmd--;
-                            x--;
-                            ans = max(ans, getEcValue(x, y));
-                        }
+                         move(x, y, cmd, direction, mpp, ans);
                     }else if(cmd == -1){
-                        direction = 'N';
+                        direction = 0;
                     }else{
-                        direction = 'S';
+                        direction = 3;
                     }
                 }
             }
