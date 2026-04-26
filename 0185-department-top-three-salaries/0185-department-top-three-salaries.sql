@@ -19,8 +19,8 @@ FROM (
     ON  e.departmentId = d.id ) t 
 
 WHERE 
-    rnk <= 3;
+    rnk <= 3
 
-
-
+ORDER BY 
+    Department , salary DESC, Employee;
 
